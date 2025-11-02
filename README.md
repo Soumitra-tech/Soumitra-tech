@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Soumitra!
 
-<!--
-**Soumitra-tech/Soumitra-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Full-Stack Developer | MERN Stack | Open Source Enthusiast  
 
-Here are some ideas to get you started:
+💡 I love building scalable web apps, experimenting with new tech, and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript, TailwindCSS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Tools & Platforms:** Git, GitHub, VS Code, Vite, Postman
+- **Other Interests:** UI/UX Design, Cloud, APIs
+
+---
+
+### 🌟 Featured Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| [Food Ordering System](https://github.com/Soumitra-tech/Food-Ordering-System) | A MERN stack app for ordering food online | React, Node, MongoDB |
+| [GitHub Jobs Pro](https://github.com/Soumitra-tech/Github-Jobs-Pro) | Job listing platform with search and filters | React, API Integration |
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- 🌐 [Portfolio Website](https://YOUR-PORTFOLIO-LINK)
+- ✉️ Email: youremail@gmail.com
+
+---
+
+⭐️ From [Soumitra-tech](https://github.com/Soumitra-tech)
+
