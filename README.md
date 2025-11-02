@@ -25,9 +25,9 @@
 ### 📫 Connect with Me
 - 💼 [LinkedIn]https://www.linkedin.com/in/soumitra-mahapatra1/
 - 🌐 [Portfolio Website](https://YOUR-PORTFOLIO-LINK)
-- ✉️ Email: youremail@gmail.com
+- ✉️ Email: anshumahapatra100@gmail.com
 
 ---
 
-⭐️ From [Soumitra-tech](https://github.com/Soumitra-tech)
+⭐️ From [Soumitra-tech]https://github.com/Soumitra-tech
 
