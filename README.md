@@ -23,7 +23,7 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- 💼 [LinkedIn]https://www.linkedin.com/in/soumitra-mahapatra1/
 - 🌐 [Portfolio Website](https://YOUR-PORTFOLIO-LINK)
 - ✉️ Email: youremail@gmail.com
 
