@@ -18,7 +18,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [Food Ordering System](https://github.com/Soumitra-tech/Food-Ordering-System) | A MERN stack app for ordering food online | React, Node, MongoDB |
-| [GitHub Jobs Pro](https://github.com/Soumitra-tech/Github-Jobs-Pro) | Job listing platform with search and filters | React, API Integration |
+| [Job Fiender](https://github.com/Soumitra-tech/Job-Finder) | Job listing platform with search and filters | React, API Integration |
 
 ---
 
