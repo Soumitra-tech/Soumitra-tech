@@ -8,7 +8,7 @@
 
 ### 🛠️ Tech Stack
 - **Frontend:** React.js, Next.js, HTML, CSS, JavaScript, TailwindCSS
-- **Backend:** Node.js, Express.js, MongoDB
+- **Backend:** Node.js, Express.js, MongoDB, Supabase
 - **Tools & Platforms:** Git, GitHub, VS Code, Vite, Postman
 - **Other Interests:** UI/UX Design, Cloud, APIs
 
